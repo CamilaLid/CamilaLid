@@ -10,7 +10,7 @@ Focada em criar interfaces bonitas, experiências fluidas e transformar ideias e
 <br/>
 
 <p align="center">
-  <a href="SEU_GITHUB_AQUI?tab=repositories&sort=stargazers">
+  <a href="https://github.com/CamilaLid?tab=repositories&sort=stargazers">
     <img src="https://custom-icon-badges.demolab.com/github/stars/SEU_USER?color=2f2f2f&style=for-the-badge&labelColor=1c1c1c&logo=star&label=Estrelas" />
   </a>
   <a href="www.linkedin.com/in/camila-lídia">
