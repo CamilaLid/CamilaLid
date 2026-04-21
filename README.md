@@ -11,7 +11,7 @@ Focada em criar interfaces bonitas, experiências fluidas e transformar ideias e
 
 <p align="center">
   <a href="https://github.com/CamilaLid?tab=repositories&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/SEU_USER?color=2f2f2f&style=for-the-badge&labelColor=1c1c1c&logo=star&label=Estrelas" />
+    <img src="https://custom-icon-badges.demolab.com/github/stars/CamilaLid?color=2f2f2f&style=for-the-badge&labelColor=1c1c1c&logo=star&label=Estrelas" />
   </a>
   <a href="www.linkedin.com/in/camila-lídia">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
